@@ -5,7 +5,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juin0216&show_icons=true)
 -->
 ## Learning
-[![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python?logoColor=white)](https://www.python.org/)
+[![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 ## Profile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juin0216&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
